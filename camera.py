@@ -70,9 +70,6 @@ def take_shot() :
 		print "\nReady for new trigger"
 		detect()
 
-def relay() :
-	
-
 def detect() :
 	global SHUTDOWN_COUNT
 	buttonState1 = True
