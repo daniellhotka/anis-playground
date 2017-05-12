@@ -2,7 +2,7 @@
 
 This is the repository for all of the code snippets I post on the website, MIT licensce makes it free for everyone to use and contribute.
 
-## File index
+## File Index
 
 **blink.py** - Detects a change of GPIO status, waits three seconds and then blinks two LEDs. Resets and waits again.
 
